@@ -1,3 +1,0 @@
-Ahmad Irfan F - 140810180034
-Gede Bagus D - 140810180068
-ANILN
