@@ -1,0 +1,15 @@
+PREFIX p: <http://BiBook.com>
+PREFIX d: <http://BiBook.com/ns/data#>
+
+SELECT ?Nama ?ISBN ?Tipe ?Sinopsis ?Rilis ?Penulis ?JumlahHlmn
+WHERE
+{ 
+    ?s  d:nama ?Nama;
+        d:isbn ?ISBN;
+        d:jenis ?Tipe;
+        d:sinopsis ?Sinopsis;
+        d:tanggalTerbit ?Rilis;
+        d:author ?Penulis;
+        d:jumlahHalaman ?JumlahHlmn
+}
+

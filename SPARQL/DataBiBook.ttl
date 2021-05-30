@@ -1,0 +1,243 @@
+PREFIX p: <http://BiBook.com>
+PREFIX d: <http://BiBook.com/ns/data#>
+
+d:P01        d:nama	               "Taiko" ;
+             d:isbn                "978-602-8519-93-1" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Pada abad ke-16, pergolakan kekuasaan melanda Jepang. Keshogunan cerai-berai. Benteng demi benteng dihancurkan. Desa demi desa dijarah. Ladang demi ladang dibakar. Di tengah kekacauan muncul tiga orang yang bercita-cita menyatukan kembali Jepang. Mereka adalah Nobunaga, sosok yang ekstrem, penuh pesona, namun brutal; Ieyasu, sosok yang tenang, penuh perhitungan, bijaksana, dan gagah-berani di medan perang; dan Hideyoshi, si kurus berwajah mirip monyet yang secara tidak terduga menyelamatkan Jepang dari kebinasaan. Hideyoshi seorang anak petani yang cerdas. Ia berhasil mengubah pelayan-pelayan yang ragu-ragu menjadi setia, saingan menjadi teman, dan musuh menjadi sekutu. Pengertiannya yang mendalam terhadap sifat dasar manusia telah membuka kunci pintu-pintu gerbang benteng, membuka pikiran orang-orang, dan memikat hati para wanita. Dari pembawa sandal, ia akhirnya, menjadi Taiko, penguasa mutlak Kekaisaran Jepang." ;
+             d:tanggalTerbit       "29 Juli 2019" ;
+             d:author              "Eiji Yoshikawa" ;
+             d:jumlahHalaman        1144.
+
+d:P02        d:nama	               "The Memory Police" ;
+             d:isbn                "978-602-8519-93-2" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Penduduk di suatu pulau tak bernama, hidup di bawah kekuasaan rezim yang opresif. Pelan-pelan mereka mengalami amnesia kolektif. Secara berkala benda-benda mulai hilang dari ingatan mereka---bunga, burung, perahu, topi, pita, hal-hal yang tampak sepele. Apa pun yang hilang itu, tidak lagi memiliki makna, benda itu bisa dibakar di kebun, dibuang ke sungai, atau diserahkan kepada Polisi Kenangan. Lalu dengan cepat seisi pulau melupakan keberadaannya. Tetapi ada orang-orang yang tidak lupa, entah kenapa, dan tugas Polisi Kenangan adalah mengatasi orang-orang seperti ini. Ketika seorang novelis muda mendapati editornya terancam akan dibawa pergi oleh Polisi Kenangan, dia berupaya menyelamatkan sang editor. Editor itu adalah satu dari segelintir orang yang tidak melupakan, dan makin lama semakin sulit baginya untuk menyembunyikan hal ini. Siapa yang tahu, apa yang akan hilang berikutnya? Polisi Kenangan adalah kisah yang indah dan sulit dilupakan tentang kekuatan kenangan dan trauma akibat kehilangan." ;
+             d:tanggalTerbit       "13 April 2020" ;
+             d:author              "Yoko Ogawa" ;
+             d:jumlahHalaman        304.
+
+d:P03        d:nama	               "Murder in the Crooked House" ;
+             d:isbn                "978-602-8519-93-3" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Rumah Miring itu bertengger di tebing berselimut salju yang menghadap ke lautan es di ujung utara Jepang yang terpencil. Tempat yang aneh, tetapi di situlah sang jutawan Kozaburo Hamamoto membangunnya. Banyak labirin lantai yang miring dan tangga-tangga di tempat yang tidak biasa, juga topneg-topeng dan boneka seukuran manusia yang seram. Ketika seorang pria ditemukan mati dibunuh di salah satu kamar, polisi dipanggil, tapi mereka tak mampu memecahkan teka-teki itu. Lantas korban-korban lain berjatuhan. Maka dipanggillah Kiyoshi Mitarai, si detektif terkenal yang pernah memecahkan misteri kasus Pembunuhan Zodiak. Kalau bukan Mitarai, siapa lagi yang bisa? Tetapi mungkin Anda bisa mendahului Mitarai dalam memecahkan kasus ini? Semua petunjuknya dibeberkan dengan gamblang. Jadi, silakan ikut mencobanya." ;
+             d:tanggalTerbit       "23 Maret 2020" ;
+             d:author              "Soji Shimada" ;
+             d:jumlahHalaman        400.
+
+d:P04        d:nama	               "The Tokyo Zodiac Murders" ;
+             d:isbn                "978-602-8519-93-4" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Pada suatu malam bersalju tahun 1936, seorang seniman dipukuli hingga tewas di balik pintu studionya yang terkunci di Tokyo. Polisi menemukan surat wasiat aneh yang memaparkan rencananya untuk menciptakan Azoth—sang wanita sempurna—dari potongan-potongan tubuh para wanita muda kerabatnya. Tak lama sesudah itu, putri tertuanya dibunuh. Lalu putri-putrinya yang lain serta keponakan-keponakan perempuannya tiba-tiba menghilang. Satu per satu mayat mereka yang termutilasi ditemukan, semua dikubur sesuai dengan prinsip astrologis yang diuraikan sang seniman. Pembantaian misterius itu mengguncang Jepang, menyibukkan pihak berwenang dan para detektif amatir, namun tirai misteri tetap tak terpecahkan selama lebih dari 40 tahun. Lalu pada suatu hari di tahun 1979, sebuah dokumen diserahkan kepada Kiyoshi Mitarai—astrolog, peramal nasib, dan detektif eksentrik. Dengan didampingi Dr. Watson versinya sendiri—ilustrator dan penggemar kisah detektif, Kazumi Ishioka—dia mulai melacak jejak pelaku Pembunuhan Zodiak Tokyo serta pencipta Azoth yang bagaikan lenyap ditelan bumi. Kisah menarik tentang sulap dan ilusi karya salah satu pencerita misteri terkemuka di Jepang ini disusun seperti tragedi panggung yang megah. Penulis melemparkan tantangan kepada pembaca untuk membongkar misteri sebelum tirai ditutup." ;
+             d:tanggalTerbit       "9 Maret 2020" ;
+             d:author              "Soji Shimada" ;
+             d:jumlahHalaman        360.
+
+d:P05        d:nama	               "The Chemist" ;
+             d:isbn                "978-602-8519-93-5" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Sebagai mantan agen, ia menyimpan rahasia tergelap agensi yang membuatnya menjadi incaran pemerintah Amerika. Mereka ingin ia mati. Ia hidup dalam pelarian selama hampir tiga tahun. Tak pernah menetap di tempat yang sama dan selalu bergonta-ganti nama. Satu-satunya orang yang ia percaya telah mereka bunuh. Tetapi mereka selalu gagal membunuhnya karena ia agen terbaik di bidangnya—sang ahli kimia. Ketika seseorang menawarkan jalan keluar, ia sadar itulah kesempatannya untuk mengakhiri semua ini. Tetapi itu berarti ia harus menerima satu pekerjaan terakhir dari mantan atasannya. Dan ketika mempersiapkan diri menghadapi pertarungan terhebat dalam hidupnya, ia jatuh cinta pada pria yang membuat semuanya semakin rumit. Kini, ia terpaksa menggunakan bakat uniknya sebagai ahli kimia dengan cara yang tak pernah ia bayangkan." ;
+             d:tanggalTerbit       "22 Januari 2018" ;
+             d:author              "Stephanie H. Meyer" ;
+             d:jumlahHalaman        564.
+
+d:P06        d:nama	               "The Hate U Give" ;
+             d:isbn                "978-602-8519-93-6" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "“Itu sebabnya orang-orang bicara, kan? Karena keadaan tidak akan berubah kalau kita tidak mengatakan apa-apa?” Starr Carter, gadis kulit hitam berusia enam belas tahun, hidup di antara dua dunia berbeda. Lingkungan kumuh tempatnya lahir lalu tumbuh besar, dan SMA bergengsi di pinggiran kota tempatnya bersekolah. Keseimbangan dua dunia yang mati-matian ia jaga itu hancur berantakan ketika Starr menjadi satu-satunya saksi dari tragedi penembakan sahabatnya, Khalil, oleh seorang polisi. Padahal saat itu Khalil tidak bersenjata. Segera saja, tewasnya Khalil jadi tajuk berita utama. Mereka menyebut pemuda itu preman, pengedar narkoba, bahkan anggota geng. Demo besar-besaran memenuhi jalanan atas nama Khalil. Semua orang ingin tahu, apa yang sebetulnya terjadi saat Khalil terbunuh. Satu-satunya yang bisa menjawab adalah Starr. Yang akan ia katakan, bukan hanya bisa menghancurkan lingkungannya. Kemungkinan besar, itu bisa membuatnya terbunuh." ;
+             d:tanggalTerbit       "2 Februari 2018" ;
+             d:author              "Angie Thomas" ;
+             d:jumlahHalaman        492.
+
+d:P07        d:nama	               "Annihilation" ;
+             d:isbn                "978-602-8519-93-7" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Selama puluhan tahun Area X terisolir. Ekspedisi pertama kembali dengan membawa laporan tentang alam indah bagai firdaus; semua anggota ekspedisi kedua bunuh diri; ekspedisi ketiga habis akibat para anggotanya baku tembak; anggota-anggota eskpedisi kesebelas pulang dengan kondisi abnormal dan beberapa bulan kemudian meninggal akibat kanker yang menyebar cepat. Ini ekspedisi kedua belas. Rombongan terdiri atas empat wanita: antropolog; surveyor; psikolog, sang pemimpin de facto; dan narator kita, ahli biologi. Misi mereka memetakan wilayah dan mengumpulkan spesimen; mencatat semua observasi, ilmiah maupun tidak, tentang lingkungan serta satu sama lain; dan, di atas segalanya, berusaha supaya tidak terkontaminasi Area X. Mereka tahu akan menemukan hal-hal tak terduga, dan Area X memang seperti itu—mereka menemukan anomali topografi dan bentuk-bentuk kehidupan yang melampaui pemahaman—namun, kejutan-kejutan yang ikut melintasi perbatasan mereka mereka, dan berbagai rahasia yang disimpan para anggota ekspedisi, itulah yang mengubah segalanya." ;
+             d:tanggalTerbit       "26 Februari 2018" ;
+             d:author              "Jeff Vandermeer" ;
+             d:jumlahHalaman        248.
+
+d:P08        d:nama	               "Rich People Problems" ;
+             d:isbn                "978-602-8519-93-8" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Ketika mendengar bahwa neneknya, Su Yi, sakit keras, Nicholas Young bergegas pulang-namun ia tidak sendirian. Keluarga Shang-Young dari seluruh penjuru dunia ikut berkumpul, seolah akan merawat sang nenek tapi sebetulnya ingin memperebutkan harta melimpah yang dimiliki Su Yi. Sementara keluarga memperebutkan warisan, Astrid Leong berada di pusat badai yang berbeda: ia jatuh cinta pada kekasih lamanya Charle Wu, tapi diganggu mantan istri Charlie, yang bertekad menghancurkan hubungan dan reputasi Astrid. Sementara itu, Kitty Pong, yang menikah dengan miliuner Jack Bing, mendapatkan lawan yang seimbang, yaitu Colette, putri tirinya." ;
+             d:tanggalTerbit       "22 Februari 2018" ;
+             d:author              "Kevin Kwan" ;
+             d:jumlahHalaman        484.
+
+d:P09        d:nama	               "Harry Potter and The Cursed Child" ;
+             d:isbn                "978-602-8519-93-9" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Menjadi Harry Potter memang sulit dan sekarang pun tidak lebih mudah ketika ia menjadi pegawai Kementerian Sihir yang kelelahan, suami, dan ayah tiga anak usia sekolah. Sementara Harry berjuang menghadapi masa lalu yang mengikutinya, putra bungsunya, Albus, harus berjuang menghadapi beban warisan keluarga yang tak pernah ia inginkan. Ketika masa lalu dan masa sekarang melebur, ayah dan anak pun mengetahui fakta yang tidak menyenangkan: terkadang kegelapan datang dari tempat-tempat yang tak terduga." ;
+             d:tanggalTerbit       "17 September 2018" ;
+             d:author              "J.k. Rowling" ;
+             d:jumlahHalaman        384.
+
+d:P10        d:nama	               "The Knife of Never Letting Go" ;
+             d:isbn                "978-602-8519-93-10" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Todd Hewitt satu-satunya bocah lelaki di Prentisstown. Kota itu hanya berisi lelaki dewasa, tidak ada perempuan, tidak ada anak-anak. Sejak terinfeksi kuman Kebisingan, mereka dapat mendengar pikiran satu sama lain. Sebulan lagi Todd menjadi lelaki dewasa, tapi di tengah Kebisingan, dia tahu kotanya menyembunyikan sesuatu---sesuatu yang begitu mengerikan sehingga Todd terpaksa melarikan diri hanya bersama Manchee, anjing yang pikiran setia dan sederhananya juga dapat didengar Todd. Diburu lelaki-lelaki jahat dari kota, keduanya bertemu makhluk aneh yang begitu hening: seorang anak perempuan. Siapa dia? Mengapa dia tidak terbunuh oleh kuman seperti semua perempuan di Dunia Baru?" ;
+             d:tanggalTerbit       "26 Maret 2018" ;
+             d:author              "Patrick Ness" ;
+             d:jumlahHalaman        548.
+
+d:P11        d:nama	               "How to Stop Time" ;
+             d:isbn                "978-602-8519-93-11" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Tom Hazard menyimpan rahasia berbahaya. Ia mungkin tampak seperti pria biasa berusia 41 tahun, tapi karena kondisi medis sangat langka, ia sudah hidup berratus-ratus tahun. Tom pernah jadi bagian sejarah––memainkan musik untuk Shakespeare, mengekspolarasi lautan dengan Captain Cook, dan minum koktail dengan Fitzgerald. Sekarang, ia hanya ingin hidup normal. Jadi Tom pindah ke London, tempat tinggal lamanya, untuk jadi guru sejarah–– pekerjaan yang pas untuk orang yang menyaksikan sejarah kota itu dengan mata kepala sendiri. Tom mengira ia akan mendapatkan hidup yang diinginkannya. Hingga seorang wanita yang jadi guru bahasa Prancis di sekolahnya tampak tertarik padanya. Tapi Masyarakat Albatross, kelompok rahasia yang melindungi orang-orang seperti Tom, punya satu aturan: jangan jatuh cinta. Ketika kenangan masa lalu yang menyakitkan dan tindakan membahayakan dari pemimpin Masyarakat Albatross mengancam kehidupan baru dan kisah cintanya, satu hal yang tak bisa ia miliki mungkin malah jadi satu-satunya hal yang bisa menyelamatkannya. Tom harus memutuskan apakah ia akan tetap terjebak di masa lalu, ataukah ia siap untuk hidup di masa kini?" ;
+             d:tanggalTerbit       "10 Agustus 2020" ;
+             d:author              "Matt Haig" ;
+             d:jumlahHalaman        404.
+
+d:P12        d:nama	               "Holding Up The Universe" ;
+             d:isbn                "978-602-8519-93-12" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Semua orang mengira kenal Libby Strout, cewek yang pernah dijuluki “Remaja Paling Gemuk se- Amerika”. Namun tak ada yang tahu siapa dia sebenarnya. Setelah kematian ibunya, Libby mengurung diri. Tetapi, sekarang Libby siap: menyambut SMA, teman-teman baru, cinta, dan SEMUA KESEMPATAN DALAM HIDUP. Semua orang juga mengira kenal Jack Masselin. Cowok itu sangat percaya diri, bisa bergaul dengan siapa saja. Namun tak ada yang tahu rahasia Jack: ia tidak dapat mengenali wajah. Ia mampu mengotak-atik apa pun, tapi tidak bisa memahami bagaimana otaknya bekerja. Karena itu ia punya prinsip: Jadilah orang yang menyenangkan. Jadilah orang yang lucu. Tapi jangan terlalu dekat dengan siapa pun. Sampai ia bertemu Libby. Ketika keduanya terlibat dalam permainan keji SMA—yang membuat mereka harus ikut konseling dan pelayanan masyarakat—Libby dan Jack kesal, dan terkejut. Sebab ternyata semakin sering mereka bersama, semakin mereka tidak kesepian… Karena kadang ketika kau bertemu seseorang, dunia berubah, duniamu dan dunianya." ;
+             d:tanggalTerbit       "12 Maret 2018" ;
+             d:author              "Jennifer Niven" ;
+             d:jumlahHalaman        496.
+
+d:P13        d:nama	               "The Rosie Effect" ;
+             d:isbn                "978-602-8519-93-13" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Setelah Proyek Rosie berhasil dengan gemilang, Don Tillman dan Rosie Jarman pindah ke New York dan menghadapi tantangan baru: Rosie mengandung. Don belajar mempersiapkan diri untuk menjadi ayah, tapi metodenya membuat Don harus berhadapan dengan pihak berwajib. Untung saja, Gene, sahabat Don, datang ke New York untuk membantu. Sementara Don menyusun jadwal mempelajari kehamilan, membantu Gene kembali kepada Claudia, mereparasi kulkas yang saking besarnya menguasai separuh apartemennya, dan lain-lain, hampir saja dia melupakan satu hal yang paling penting: dia bisa kehilangan Rosie justru ketika Rosie sangat membutuhkannya." ;
+             d:tanggalTerbit       "1 Februari 2018" ;
+             d:author              "Graeme Simsion" ;
+             d:jumlahHalaman        468.
+
+d:P14        d:nama	               "Ready Player One" ;
+             d:isbn                "978-602-8519-93-14" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Pada tahun 2045, realitas adalah tempat yang buruk. Wade Watts hanya merasa sepenuhnya hidup saat masuk ke dunia utopia virtual yang dikenal sebagai OASIS. Wade membaktikan hidupnya untuk mempelajari teka-teki tersembunyi dalam dunia virtual tersebut. Teka-teki yang berasal dari James Halliday, sang pencipta OASIS, tempat Halliday menyembunyikan harta peninggalannya yang paling berharga dalam obsesinya terhadap budaya pop dan permainan video tahun 1980-an. Saat Wade menemukan petunjuk pertama, seluruh dunia mengejarnya, karena banyak orang yang rela membunuh demi menemukan rahasia tempat Halliday menyembunyikan hartanya. Dan sejak itu dimulailah perburuan yang sesungguhnya. Bagi Wade, ini bukan sekadar Perburuan, tapi bagaimana dia bisa menyelamatkan dunia virtual tempatnya berlindung, dan pada saat yang sama berusaha menyelamatkan orang-orang yang dicintainya di dunia nyata. Satu-satunya cara bagi Wade untuk bisa melakukannya adalah dengan memenangi Perburuan itu." ;
+             d:tanggalTerbit       "3 April 2018" ;
+             d:author              "Ernest Cline" ;
+             d:jumlahHalaman        548.
+
+d:P15        d:nama	               "Animal Farm" ;
+             d:isbn                "978-602-8519-93-15" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Suatu malam, Major, si babi tua yang bijaksana, mengumpulkan para binatang di peternakan untuk bercerita tentang mimpinya. Setelah sekian lama hidup di bawah tirani manusia, Major mendapat visi bahwa kelak sebuah pemberontakan akan dilakukan binatang terhadap manusia, menciptakan sebuah dunia di mana binatang akan berkuasa atas dirinya sendiri.Tak lama, pemberontakan benar-benar terjadi. Kekuasaan manusia digulingkan di bawah pimpinan dua babi cerdas: Snowball dan Napoleon. Namun, kekuasaan ternyata sungguh memabukkan. Demokrasi yang digaungkan perlahan berbelok kembali menjadi tiran di mana pemimpin harus selalu benar. Dualisme kepemimpinan tak bisa dibiarkan. Salah satu harus disingkirkan … walau harus dengan kekerasan.Animal Farm merupakan novel alegori politik yang ditulis Orwell pada masa Perang Dunia II sebagai satire atas totaliterisme Uni Soviet. Dianugerahi Retro Hugo Award untuk novela terbaik (1996) dan Prometheus Hall of Fame Award (2011), Animal Farm menjadi mahakarya Orwell yang melejitkan namanya." ;
+             d:tanggalTerbit       "26 Oktober 2016" ;
+             d:author              "George Orwell" ;
+             d:jumlahHalaman        148.
+
+d:P16        d:nama	               "Sophie's World" ;
+             d:isbn                "978-602-8519-93-16" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Mizan Gold Edition adalah spesial dari karya-karya terbaik penulis dunia. Hadir dalam kualitas teks prima serta kemasan dan bahan eksklusif, seri ini layak menjadi koleksi para pencinta sejati buku. Sophie, seorang pelajar sekolah menengah berusia empat belas tahu. Suatu hari sepulang sekolah, dia mendapat sebuah surat misterius yang hanya berisikan satu pertanyaan: ?Siapa kamu?? Belum habis keheranannya, pada hari yang sama dia mendapat surat lain yang bertanya: ?Dari manakah datangnya dunia?? Seakan tersentak dari rutinitas hidup sehari-hari, surat-surat itu mempuat Sophie mulai mempertanyakan soal-soal mendasar yang tak pernah dipikirkannya selama ini. Dia mulai belajar filsafat." ;
+             d:tanggalTerbit       "5 Agustus 2010" ;
+             d:author              "Jostein Gaarder" ;
+             d:jumlahHalaman        800.
+
+d:P17        d:nama	               "22 Indigo Place" ;
+             d:isbn                "978-602-8519-93-17" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Bagi Laura Nolan, Indigo Place bukan sekadar Mansion, tetapi juga hidupnya. Namun kini ia terjebak tumpukan utang yang ditinggalkan almarhum ayahnya. Tak ada jalan lain untuk melunasinya selain menjual rumah warisan itu. Namun Laura tak menyangka bahwa satu-satunya pembeli adalah James Paden.Di masa mudanya, James Paden adalah berandalan kota mereka. Anak jalanan yang tampan. Berbahaya untuk berdekatan dengannya, tapi sulit juga untuk tidak terpesona padanya. Dan itulah yang dialami Laura. Lingkungan sosialnya membuat ia tak bisa berdekatan dengan James, padahal hatinya begitu mendamba.Sedangkan bagi James Paden, Laura adalah obsesinya. Gadis ningrat cantik yang tak mungkin bisa diraihnya, putri orang kaya lama yang menurut anggapan umum di kota mereka sama sekali tak sesuai untuknya. Kini, setelah sepuluh tahun lebih meninggalkan Gregory dan berjuang mengangkat hidupnya, ia kembali sebagai pengusaha sukses. Akan dibuktikannya pada petunjuk kota itu bahwa ia berhak masuk ke Indigo Place yang dulu tertutup baginya, berikut memiliki pewarisnya..." ;
+             d:tanggalTerbit       "23 Oktober 2017" ;
+             d:author              "Sandra Brown" ;
+             d:jumlahHalaman        248.
+
+d:P18        d:nama	               "1Q84" ;
+             d:isbn                "978-602-8519-93-18" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Sekarang tahun 1Q84. Ini adaloh dunia sejati, tak oda keraguan akan hoi itu. Tapi di dunia ini, ada dua bulon menggantung di langit. Di dunia ini, takdir dua manusia, Tengo dan Aomame berkelindan erat. Masing-masing dengan caranya sendiri terlibat dalam sesuatu yang mengundang bahaya. Dan di dunia ini, tampaknya tak ada cara untuk menyelamatkan keduanya. Sesuatu yang dahsyatnya sedang bergerak." ;
+             d:tanggalTerbit       "2 Mei 2016" ;
+             d:author              "Haruki Murakami" ;
+             d:jumlahHalaman        516.
+
+d:P19        d:nama	               "Salvation of a Saint" ;
+             d:isbn                "978-602-8519-93-19" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Seorang lelaki ditemukan tewas di rumahnya akibat kopi beracun. Istrinya memiliki motif kuat sebagai tersangka setelah dia dicampakkan oleh sang suami. Masalahnya, pada hari pembunuhan, wanita itu berada ribuan kilometer dari tempat kejadian. Detektif Kusanagi dan Detektif Utsumi Kaoru yang menyelidiki kasus ini memiliki opini bertentangan soal siapa pelakunya. Namun, Utsumi merasa Kusanagi terlalu berempati terhadap istri korban dan itu membuat penilaiannya kabur. Karena itu, Utsumi meminta Profesor Manabu Yukawa untuk membantu kepolisian, sekaligus meluruskan logika Kusanagi. Tapi bahkan ilmuwan genius yang dijuluki Detektif Galileo itu kebingungan. Tidak mungkin seseorang memasukkan racun ke kopi dari jarak jauh, bukan? Di sinilah kecerdasan sang profesor diuji. Dia harus menguak trik bagaimana racun itu muncul pada waktu yang tepat, di tempat yang sempurna, dan yang terpenting, tidak salah sasaran." ;
+             d:tanggalTerbit       "9 Maret 2021" ;
+             d:author              "Keigo Higashino" ;
+             d:jumlahHalaman        352.
+
+d:P20        d:nama	               "Tuesdays with Morrie" ;
+             d:isbn                "978-602-8519-93-20" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Bagi kita mungkin ia sosok orangtua, guru, atau teman sejawat. Seseorang yang lebih berumur, sabar, dan arif, yang memahami kita sebagai orang muda penuh gelora, yang membantu kita memandang dunia sebagai tempat yang lebih indah, dan memberitahu kita cara terbaik untuk mengarunginya. Bagi Mitch Albom, orang itu adalah Morrie Schwartz, seorang mahaguru yang pernah menjadi dosennya hampir dua puluh tahun yang lampau. Barangkali, seperti Mitch, kita kehilangan kontak dengan sang guru sejalan dengan berlalunya waktu, banyaknya kesibukan, dan semakin dinginnya hubungan antarsesama manusia. Tidakkah kita ingin bertemu dengannya lagi untuk mencari jawab atas pertanyaan-pertanyaan besar yang masih menghantui kita, dan menimba kearifan guna menghadapi hari-hari sibuk kita dengan cara seperti ketika kita masih muda? Bagi Mitch Albom, kesempatan kedua itu ada karena suatu keajaiban telah mempertemukannya kembali dengan Morrie pada bulan-bulan terakhir hidupnya. Keakraban yang segera hidup kembali di antara guru dan murid itu sekaligus menjadi sebuah “kuliah” akhir: kuliah tentang cara menjalani hidup. Selasa Bersama Morrie menghadirkan sebuah laporan terperinci yang luar biasa seputar kebersamaan mereka." ;
+             d:tanggalTerbit       "28 Mei 2020" ;
+             d:author              "Mitch Albom" ;
+             d:jumlahHalaman        224.
+
+d:P21        d:nama	               "Wuthering Heights" ;
+             d:isbn                "978-602-8519-93-21" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Wuthering Heights mengisahkan tentang cinta yang tak sampai antara Heathcliff dan Catherine Earnshaw. Ketika Catherine yang sangat dicintainya memutuskan untuk menikah dengan Edgar Linton yang merupakan saingan Heathcliff sejak kecil, Heathcliff pun melarikan diri dan kelak kembali sebagai pria kaya dan berpendidikan, lalu dia mulai menyusun rencana pembalasan dendam kepada keluarga Earnshaw dan Linton yang diyakininya telah menghancurkan hidupnya." ;
+             d:tanggalTerbit       "21 April 2021" ;
+             d:author              "Emily Bronte" ;
+             d:jumlahHalaman        488.
+
+d:P22        d:nama	               "Germinal" ;
+             d:isbn                "978-602-8519-93-22" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Germinal mengisahkan pemogokan para pekerja tambang di utara Prancis pada tahun 1860-an Etienne Lantier adalah pekerja rel kereta yang dipecat. Dia tak berpendidikan, tetapi cerdas, dan temperamennya berbahaya. Karena tak ada pilihan lain, dia terpaksa menerima pekerjaan sebagai buruh tambang Le Voreux. Di sana dia melihat banyak rekannya kelaparan, sakit, dan terlilit utang, tak mampu memberi makan keluarga mereka dan tanpa masa depan. Ketika kondisi ini semakin memburuk, Lantier memimpin pemogokan yang bisa berujung pada kelaparan atau keselamatan bagi semua." ;
+             d:tanggalTerbit       "8 November 2016" ;
+             d:author              "Emile Zola" ;
+             d:jumlahHalaman        876.
+
+d:P23        d:nama	               "Norwegian Wood" ;
+             d:isbn                "978-602-8519-93-23" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "“Kebenaran seperti apa pun, tidak mungkin bisa menyembuhkan kepedihan seseorang yang ditinggal mati kekasihnya. Kebenaran seperti apa pun, ketulusan seperti apa pun, kekuatan seperti apa pun, kelembutan seperti apa pun, tidak bisa menyembuhkan kepedihan itu. Kita hanya bisa merasakan kepedihan itu sedalam-dalamnya, dan dari situ kita mempelajari sesuatu dan sesuatu yang kita pelajari itu pun menjadi percuma di saat kita menghadapi kesedihan yang sekonyong-konyong muncul.”" ;
+             d:tanggalTerbit       "16 April 2018" ;
+             d:author              "Haruki Murakami" ;
+             d:jumlahHalaman        426.
+
+d:P24        d:nama	               "Crooked Kingdom" ;
+             d:isbn                "978-602-8519-93-24" ; 
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Kaz Brekker si Tangan KOtor dan krunya, enam preman jalanan Barrel, kembali ke Ketterdam. Mereka seharusnya pulang sebagi jutawan, tapi malah ditipu habis-habisan dan berakhir sebagai buronan. Kekurangan modal dan kehilangan sekutu yang bisa diandalkan, mereka hampir putus asa. Situasi semakin pelik ketika utusan berbagai negara dari seluruh penjuru dunia menjejakkan kaki di kota demi mencari tahu soal ramuan rahasia yang konon sangat berharga. Seakan masalah tersebut belum cukup pelik... Inej sang Siluman terpisah dari geng. Jesper kedatangan tamu yang tak disangka-sangka. Wylan menguak rahasia masal lalu yang tersembunyi di desa. Nina kehilangan kesaktiannya sebagai Grisha. Matthias mengalami pergulatan batin setelah kehilangan apa yang diimaninya. Kaz sendiri masih harus berjuang melawan trauma masa kecilnya. Musuh-musuh lama kembali dan seteru-seteru baru muncul adu untuk adu siasat dengan si Tangan Kotor sekaligus menguji kesetiaan rekan-rekannya. Perang bakal terjadi di gang-gang sempit dan kanal-kanal berliku. Pada akhirnya, dapatkah Kaz memenangkan pertarungan dan menjadi raja di kotanya sendiri?" ;
+             d:tanggalTerbit       "27 Mei 2019" ;
+             d:author              "Leigh Bardugo" ;
+             d:jumlahHalaman        736.
+
+d:P25        d:nama	               "Le Petit Prince" ;
+             d:isbn                "978-602-8519-93-25" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Buku ini memang luar biasa. Tampaknya seolah cerita anak-anak, tapi sebenarnya dinikmati dan direnungkan juga oleh orang dewasa. Lewat cerita seorang anak yang mengamati dunia dengan mata naif dan lugu, Saint-Exupéry menyentuh beberapa nilai dan pengalaman manusia yang paling dasar, seperti kekuasaan, tanggung jawab, dan cinta. Dongeng yang mengharukan sekaligus amat mendalam" ;
+             d:tanggalTerbit       "2 April 2020" ;
+             d:author              "Antoine de Saint-Exupéry" ;
+             d:jumlahHalaman        124.
+
+d:P26        d:nama	               "Kim Ji-Yeong" ;
+             d:isbn                "978-602-8519-93-26" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Kim Ji-yeong adalah anak perempuan yang terlahir dalam keluarga yang mengharapkan anak laki-laki, yang menjadi bulan-bulanan para guru pria di sekolah, dan yang disalahkan ayahnya ketika ia diganggu anak laki-laki dalam perjalanan pulang dari sekolah di malam hari. Kim Ji-yeong adalah mahasiswi yang tidak pernah direkomendasikan dosen untuk pekerjaan magang di perusahaan ternama, karyawan teladan yang tidak pernah mendapat promosi, dan istri yang melepaskan karier serta kebebasannya demi mengasuh anak. Kim Ji-yeong mulai bertingkah aneh. Kim Ji-yeong mulai mengalami depresi. Kim Ji-yeong adalah sosok manusia yang memiliki jati dirinya sendiri. Namun, Kim Ji-yeong adalah bagian dari semua perempuan di dunia" ;
+             d:tanggalTerbit       "11 November 2019" ;
+             d:author              "Cho Nam-Joo" ;
+             d:jumlahHalaman        192.
+
+d:P27        d:nama	               "Penance" ;
+             d:isbn                "978-602-8519-93-27" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "“Meski Tuhan mengampuni kalian, aku tidak.” Lima belas tahun lalu, seorang gadis kecil bernama Emily dibunuh di sebuah desa yang tenang. Empat anak perempuan yang waktu itu sedang bermain bersama Emily tidak bisa memberikan kesaksian yang berarti padahal mereka berjumpa dengan laki-laki pembunuhnya. Akibatnya, penyelidikan pun mandek. Ibu almarhumah Emily tidak terima, memanggil keempat anak tersebut, kemudian mengancam mereka, Temukan pelakunya sebelum kasusnya kedaluwarsa, atau ganti rugi dengan cara yang bisa kuterima. Jika tidak, aku akan membalas dendam kepada kalian. Ketika keempat anak yang menanggung beban besar di pundak mereka itu tumbuh dewasa, tragedi demi tragedy pun terjadi secara beruntun…." ;
+             d:tanggalTerbit       "9 Juli 2020" ;
+             d:author              "Minato Kanae" ;
+             d:jumlahHalaman        304.
+
+d:P28        d:nama	               "The Tale of Two Dolls" ;
+             d:isbn                "978-602-8519-93-28" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Buku ini mengisahkan seorang gadis cilik bernama Anna bersama bonekanya. Ketika Anna merayakan ulang tahun yang keempat, dari semua kado yang diterimanya, ada 2 yang paling disukainya, yaitu boneka anjing dan boneka seorang putri. Kedua boneka ini selalu menemani Anna hingga Anna yang tumbuh besar. Ketika tiba saatnya Anna masuk perguruan tinggi, ibunya memintanya untuk membereskan barang-barang yang tidak dibutuhkan lagi. Bagaimanakan nasib kedua boneka tersebut ?" ;
+             d:tanggalTerbit       "28 Desember 2018" ;
+             d:author              "Arleen Amidjaja" ;
+             d:jumlahHalaman        30.
+
+
+d:P29        d:nama	               "The Hobbit" ;
+             d:isbn                "978-602-8519-93-29" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Inilah kisah tentang seorang Baggins yang pergi berpetualang, dan mendapati dirinya melakukan dan mengucapkan hal-hal yang tak disangka-sangka… Bilbo Baggins adalah hobbit yang suka hidup nyaman, tidak ambisius, jarang bepergian jauh selain ke gudang makanan di lubang hobbit-nya di Bag End. Tetapi hidup nyamannya terganggu ketika Gandalf si Penyihir, dan 13 kurcaci mendatanginya suatu hari, untuk mengajaknya menempuh suatu perjalanan “ke sana dan pulang kembali.” Mereka berencana untuk mengambil harta Smaug, naga raksasa yang sangat berbahaya…" ;
+             d:tanggalTerbit       "27 Oktober 2017" ;
+             d:author              "J.R.R. Tolkien" ;
+             d:jumlahHalaman        356.
+
+d:P30        d:nama	               "I Am A Cat" ;
+             d:isbn                "978-602-8519-93-30" ;
+             d:jenis       	       "Novel" ;
+             d:sinopsis            "Aku seekor kucing. Sampai saat ini, aku tidak punya nama. Aku tidak ingat tempat lahirku. Namun, aku ingat pertama kali bertemu manusia saat sedang mengeong-ngeong di tempat gelap dan basah. Belakangan kudengar dia manusia ditakuti kucing. Dia seorang shosei; pelajar yang tinggal menumpang di suatu rumah dan membantu pekerjaan rumah tangga di tempat itu. Dia sering menangkap kucing, lalu memasak dan memakannya. Namun, karena saat itu aku belum tahu soal ini, jadi aku tidak takut sama sekali." ;
+             d:tanggalTerbit       "27 Mei 2021" ;
+             d:author              "Soseki Natsume" ;
+             d:jumlahHalaman        532.
