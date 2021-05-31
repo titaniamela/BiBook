@@ -26,7 +26,7 @@
   if (isset($_POST['search-bibook'])) {
     $test = $_POST['search-bibook'];
     $data = sparql_get(
-      "http://def4778d02ce.ngrok.io/BiBook",
+      "localhost:3030/book",
       "
         PREFIX p: <http://BiBook.com>
         PREFIX d: <http://BiBook.com/ns/data#>
@@ -41,14 +41,14 @@
                 d:tanggalTerbit ?Rilis;
                 d:author ?Penulis;
                 d:jumlahHalaman ?JumlahHlmn
-                FILTER (regex(?Nama, '$test') || regex(?ISBN,  '$test'))
+                FILTER (regex(?Nama, '$test', 'i') || regex(?Penulis,  '$test', 'i') || regex(?Tipe,  '$test', 'i'))
     
         }
             "
     );
   } else {
     $data = sparql_get(
-      "http://def4778d02ce.ngrok.io/BiBook",
+      "localhost:3030/book",
       "
         PREFIX p: <http://BiBook.com>
         PREFIX d: <http://BiBook.com/ns/data#>
@@ -85,7 +85,7 @@
           <form action="" method="post" id="nameform">
             <div class="input-group">
               <span class="fa fa-search fa-1x form-control-feedback"></span>
-              <input type="text" name="search-bibook" class="form-control form-control-lg " placeholder="Search Judul Novel atau ISBN">
+              <input type="text" name="search-bibook" class="form-control form-control-lg " placeholder="Masukan Judul Buku, Jenis Buku atau Penulis">
               <div class="input-group-append">
                 <button class="btn btn-secondary" type="submit"> Search
                 </button>
@@ -167,6 +167,12 @@
     font-weight: 400;
     color: #f36b3a;
   }
+  .navbar-brand span {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: #FFFFFF;
+}
   .has-search .form-control {
     padding-left: 2.375rem;
   }
